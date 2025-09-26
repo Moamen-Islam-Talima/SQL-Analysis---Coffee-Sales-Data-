@@ -1,5 +1,18 @@
 # Data-Driven Strategy for Coffee Shop Performance
 
+## Table of Contents
+- [Overview](#overview)
+- [Project Objectives](#project-objectives)
+- [Dataset](#dataset)
+- [Analysis Approach](#analysis-approach)
+- [Key Insights](#key-insights)
+- [Tools and Technologies](#tools-and-technologies)
+- [Business Value](#business-value)
+- [How to Use](#how-to-use)
+- [License](#license)
+
+---
+
 ## Overview
 This repository presents a structured data analysis project designed to transform raw coffee shop sales data into actionable business insights. The project applies **SQL queries** to answer critical business questions, identify customer behavior patterns, and support data-driven decision-making.
 
