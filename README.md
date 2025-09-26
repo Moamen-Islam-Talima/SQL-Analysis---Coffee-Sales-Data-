@@ -97,6 +97,5 @@ This project enables coffee shop management to:
 ---
 
 ## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-This project is licensed under the MIT LICENSE. See the LICENSE
-file for details.
